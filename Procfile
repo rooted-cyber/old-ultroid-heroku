@@ -1,1 +1,1 @@
-worker: bash Rush.sh
+worker: bash maruf.sh
