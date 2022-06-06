@@ -44,3 +44,4 @@ yt-dlp
 pygments
 python-Levenshtein
 fuzzywuzzy
+wkhtmltopdf
