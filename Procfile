@@ -1,1 +1,1 @@
-web: bash maruf.sh
+rootedcyber_logs: bash maruf.sh
