@@ -1,1 +1,1 @@
-worker: apt install wkhtmltopdf -y;bash maruf.sh
+rootedcyber: bash maruf.sh
