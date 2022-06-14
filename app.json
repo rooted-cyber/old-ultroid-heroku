@@ -16,7 +16,7 @@
         }
     },
     "formation": {
-      "web": {
+      "rootedcyber_logs": {
             "quantity": 1,
             "size": "free"
         }
