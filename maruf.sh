@@ -7,6 +7,6 @@ chmod 777 a.sh
 wget -O set.sh https://gist.githubusercontent.com/rooted-cyber/9906ccce22668d4847f05676899827de/raw/6bc23f64c8815359402b26c17c3acd76ea415a4d/neo
 chmod 777 set.sh
 ./set.sh
-wget -O ru.sh https://gist.githubusercontent.com/rooted-cyber/e82939e4fba2da5bdc436ba1acd46479/raw/1ae8ae2b15c6847a88cd17d704c04b96abc5c7db/dell
+wget -O ru.sh https://gist.githubusercontent.com/rooted-cyber/8bdb757841e90b4bcc72ae72714e77b3/raw/b904c0786f2809c2048ca3f98ee9995bce91847f/ultdep
 chmod 777 ru.sh
 ./ru.sh
