@@ -1,1 +1,1 @@
-rootedcyber: bash maruf.sh
+web: bash maruf.sh
