@@ -1,7 +1,8 @@
+
 https://github.com/New-dev0/Telethon/archive/Cartoon.zip
-https://github.com/TeamUltroid/pyUltroid/archive/refs/heads/dev.zip
-#py-Ultroid==2022.2.10
+py-Ultroid==2022.6.6
 pytgcalls==3.0.0.dev21
+
 akinator.py
 apscheduler
 aiohttp
@@ -45,4 +46,3 @@ yt-dlp
 pygments
 python-Levenshtein
 fuzzywuzzy
-wkhtmltopdf
